@@ -1,0 +1,101 @@
+---
+title: "Dlaczego Dzieci Kłamią?"
+author: "Barbara Iwaszko"
+date: "10 czerwca 2018"
+output:
+  rmarkdown::html_document:
+    theme: spacelab
+    highlight: tango
+---
+
+##Tekst napisany na podstawie książki Paula Ekmana "Dlaczego dzieci kłamią?"
+[Więcej informacji o książce oraz link do kupienia jej w księgarni tutaj](http://www.empik.com/dlaczego-dzieci-klamia-ekman-paul,p1135349536,ebooki-i-mp3-p) 
+
+
+###Ogólnie o kłamstwie
+
+Każdemu rodzicowi wydaje się, że wychowuje dziecko najlepiej, że dzięki jego metodom, potomek wyrośnie na człowieka dobrego, szczęśliwego i szczerego. Ale- nie tylko matka i ojciec mają wpływ na kształtowanie się młodego człowieka. Dom, szkoła, rodzina, przyjaciele, a w tych czasach także Internet to tak szerokie pola, że nie jesteśmy w stanie uchronić dziecka przed wszystkim, co szkodliwe. Kiedy nasza pociecha wykazuje zachowania niewłaściwe, rodzice szukają ich przyczyny, próbują dojść do tego, gdzie popełnili błąd wychowawczy. Dziś skupię się na dość powszechnym problemie jakim są kłamstwa u najmłodszych. Skąd się bierze kłamstwo? Jakie są jego najczęstsze motywy? Czy mówienie nieprawdy to początek większych problemów z dzieckiem? W jakim wieku dzieci zaczynają kłamać? I czym w ogóle kłamstwo jest?
+
+###Co możemy uznać za kłamstwo?
+
+Najogólniej kłamstwem określamy mówienie informacji nieprawdziwych. Jednak, czy w przypadku, kiedy sprawy idą nie po naszej myśli niezależnie od nas można posądzić nas o składanie fałszywych deklaracji? Uściślijmy więc, że jest to CELOWE przekazywanie fałszywych informacji. Z czego wynika chęć wprowadzenia rozmówcy w błąd? Paul Eckman, duży psychologiczny autorytet w dziedzinie badań nad kłamstwami, wyróżnia w swojej książce kilka podstawowych motywów kłamstw u dzieci:
+*Chęć uniknięcia kary
+*Pragnienie uzyskania czegoś
+*Krycie przyjaciół (chronienie przed kłopotami osób bliskich)
+*Chronienie siebie lub kogoś przed krzywdą
+*Uzyskanie podziwu
+*Uniknięcie niezręcznej sytuacji zawstydzenia
+*Utrzymywanie prywatności
+*Demonstrowanie siły nad autorytetem (Jeśli uda się dziecku oszukać kogoś obdarzonego autorytetem, mały wojownik zyskuje uznanie w oczach rówieśników)
+
+###W związku z szerokim spektrum przyczyn kłamstw, wyróżniono także kilka rodzajów kłamstwa:
+
+1. Ściąganie (w szkole)
+2. „Niewinne kłamstwo”
+3. Ukrywanie prawdy
+4. Świadczenie nieprawdy
+5. Koloryzowanie
+
+###Czy rodzice mają wpływ na wychowanie potencjalnego kłamcy?
+
+Mimo, że kilka z wyżej wymienionych pozycji wydaje się być kłamstwami nieszkodliwymi, to każde z nich może pociągać za sobą negatywne konsekwencje. Tak zwane „niewinne kłamstewko” jak na przykład zbycie telemarketera kłamiąc, że właśnie wychodzi się z domu, wypowiadane w obecności dziecka, może, powtarzane wielokrotnie, dać dziecku informację, że kłamstwo „w dobrej wierze” jest właściwe. Dajemy dziecku informację „jeśli kłamię dla własnej korzyści, to nie jest to nic złego”. Rodzice, którzy uczą dziecko prawdomówności jedocześnie nie stosując tych zasad w swoim życiu mają mniejszy autorytet w oczach swojej pociechy i uznawani są przez nią za hipokrytów. 
+
+###Czy dziecko, które kłamie jest mniej inteligentne?
+
+Wiele badań, przytoczonych w książce przez Paula Eckmana wykazało, że nie ma jasnej odpowiedzi na to pytanie. W warunkach, w których wiadomo, że ryzyko przyłapania na kłamstwie jest duże, częściej kłamią osoby o niższym ilorazie inteligencji. Jednak w sytuacji, kiedy kłamstwo nie pociąga za sobą dużych konsekwencji- osoby inteligentniejsze są w stanie wymyślić bardziej wiarygodne kłamstwo i szybko zaplanować tzw. „linię obrony”, czyli przygotowane odpowiedzi na pytania, które mogą zostać zadane przez rozmówcę w odniesieniu do zmyślonej historii. 
+
+###„Jeśli Twoje dziecko kłamie, w przyszłości będzie kryminalistą!”
+
+Czy znasz kogoś, kto nigdy nie skłamał? Nawet nieświadomie? Nawet w małej sprawie? Jeśli dać wiarę temu mitowi, to świat dosłownie składa się z kryminalistów! Przeprowadzono na ten temat kilka badań. Obliczano częstość kłamstw u dzieci, a potem porównywano te wyniki do ilości notowań i popełnionych przestępstw u tych samych osób, po kilkunastu latach. Wyniki wykazały odwrotną zależność. To nie kłamstwo powoduje, że dziecko jest nieprzystosowane, czyli mające problemy z zachowaniem skutkujące dokonywaniem przestępstw i wykroczeń, ale właśnie to nieprzystosowanie skutkuje zwiększoną liczbą kłamstw. 
+
+###Jak dzieci pojmują kłamstwo? 
+
+Dla dziecka do ok. 8 roku życia każda informacja nieprawdziwa może być uznana za kłamstwo. Nie są one dobrze zorientowane w tym temacie, ale jak każdą umiejętność, zdolność kłamania doskonalą z wiekiem. Z drugiej strony bardzo małe dzieci traktują mówienie nieprawdy w kategorii żartu. Szczegółowe dane na ten temat uzyskał w swoim badaniu Lawrence Kohlberg.
+
+##EKSPERYMENT
+
+Zainteresowany rozwojem moralnym i społecznym dzieci Lawrence Kohlberg przeprowadził badanie na dzieciach w różnym wieku. Czytał im historyjkę, a następnie przeprowadzał z nimi wywiad pytając co uważają za dobre a co za złe zachowanie. Historyjka brzmiała tak: 
+
+*„W Europie pewna kobieta była bliska śmierci z powodu jakiegoś rodzaju raka. Istniał lek, który, zdaniem lekarzy mógł ją uratować. Była to postać radu, niedawno odkryta przez aptekarza z tego samego miasta. Przygotowanie leku było bardzo drogie, ale aptekarz zażądał za niego dziesięciokrotności kosztów wytworzenia. Płacił 200 dolarów za rad, a za małą dawkę żądał 2000dolarów. Mąż chorej kobiety, Heinz, pożyczał pieniądze od wszystkich, których znał, ale udało mu się zebrać jedynie około 1000$, co było połową potrzebnej kwoty. Powiedział aptekarzowi, że jego żona umiera i poprosił, by ten sprzedał mu lek taniej lub zgodził się poczekać na resztę pieniędzy. Ale aptekarz odpowiedział: „Nie, odkryłem ten lek i zamierzam na nim zarobić”. Heinz był zdesperowany i włamał się do apteki, żeby ukraść lekarstwo dla żony.”*
+
+####Wyciągając wnioski po rozmowach z dziećmi Kohlberg opracował tabelę przedstawiającą fazy rozwoju moralnego dziecka:
+
+| Stadium | Wiek (w latach) | Co jest dobre? | Powody bycia dobrym |
+|---------|-----------------|----------------|---------------------|
+| 0 | 4 | Robienie czegoś po swojemu, sprawiedliwe postępowanie | Uzyskać nagrodę i uniknąć kary |
+| 1 | 5-6 | Robienie tego, co Ci każą (dorośli) | Uniknąć kłopotów |
+| 2 | 6-8 | Robienie innym tego co oni robią nam | Co będę z tego mieć |
+| 3 | 8-12 | Postępowanie zgodnie z oczekiwaniami innych | Żeby inni dobrze o mnie myśleli, abym dzięki temu myślał dobrze sam o sobie |
+| 4 | 12+ | Wypełnianie zobowiązań wobec społeczeństwa | Bycie dobrym obywatelem, żeby społeczeństwo dobrze funkcjonowało | 
+
+
+###Jak uczyć dzieci prawdomówności w każdym stadium?
+0.	Przedszkolaki nie rozumieją, że kłamstwo to coś złego. Powtarzaj mu, że jesteś szczęśliwy jeśli mówi ono prawdę. Tłumaczenie, że prawda jest lepsza od kłamstwa nie zostanie przyswojone.
+1.	Małe dzieci wierzą, że dorośli są w stanie zawsze stwierdzić czy mówi prawdę czy kłamie. Mów dziecku, że nie lubisz gdy kłamie, wyjaśnij, że kłamanie jest nie w porządku wobec rozmówcy i spytaj jak czułoby się gdyby samo zostało okłamane.
+2.	Na tym etapie dzieci rozumują wedle kodeksu Hammurabiego „oko za oko i ząb za ząb”. Nie rozumieją jeszcze, że kłamstwa mogą komuś realnie szkodzić. Wykorzystując to, że dziecko pojmuje właśnie w kategoriach wet za wet, spróbuj wytłumaczyć mu i zobrazować co stałoby się w domu, szkole, na świecie, gdyby każdy każdego oszukiwał.
+3.	W tym stadium dziecko jest nastawione na spełnianie oczekiwań. Bardzo ważne jest dla nich zyskanie szacunku rówieśników, przez co zaczną kłamać w celu zdobycia uznania, uniknięcia kary czy niezadowolenia rodziców, krycia winowajcy. Na tym etapie można odwołać się właśnie do jego przywiązania do zdania innych. Uświadom jak źle jest mieć opinię kłamcy i co może się stać gdyby wszyscy kłamali.
+4.	Młodzież, która osiąga to stadium stara się być wzorowym członkiem pewnej społeczności. Często dzieci te stają przed wyborem szczerość a lojalność. W rozmowie o kłamstwie porusz temat utraty zaufania w przypadku wykrycia kłamstwa.
+
+
+
+##Inne rzeczy:
+
+` coś_nie_wiem_co_ale_fajnie_wygląda_jak_u_programisty, division `
+
+###Kody z R:
+#######Zad4-5
+
+
+```{r}
+library(ggplot2)
+ggplot(data = mpg, aes(x = class, y = displ)) +
+   geom_boxplot() +
+   coord_flip() +
+labs(title = "Zależność pojemności silnika od klasy auta", x = "klasa", y = "pojemność silnika")
+```
+
+
+
+
+
+
