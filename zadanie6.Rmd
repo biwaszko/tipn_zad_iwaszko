@@ -39,15 +39,15 @@ Najogólniej kłamstwem określamy mówienie informacji nieprawdziwych. Jednak, 
 4. Świadczenie nieprawdy
 5. Koloryzowanie
 
-###Czy rodzice mają wpływ na wychowanie potencjalnego kłamcy?
+### Czy rodzice mają wpływ na wychowanie potencjalnego kłamcy?
 
 Mimo, że kilka z wyżej wymienionych pozycji wydaje się być kłamstwami nieszkodliwymi, to każde z nich może pociągać za sobą negatywne konsekwencje. Tak zwane „niewinne kłamstewko” jak na przykład zbycie telemarketera kłamiąc, że właśnie wychodzi się z domu, wypowiadane w obecności dziecka, może, powtarzane wielokrotnie, dać dziecku informację, że kłamstwo „w dobrej wierze” jest właściwe. Dajemy dziecku informację „jeśli kłamię dla własnej korzyści, to nie jest to nic złego”. Rodzice, którzy uczą dziecko prawdomówności jedocześnie nie stosując tych zasad w swoim życiu mają mniejszy autorytet w oczach swojej pociechy i uznawani są przez nią za hipokrytów. 
 
-###Czy dziecko, które kłamie jest mniej inteligentne?
+### Czy dziecko, które kłamie jest mniej inteligentne?
 
 Wiele badań, przytoczonych w książce przez Paula Eckmana wykazało, że nie ma jasnej odpowiedzi na to pytanie. W warunkach, w których wiadomo, że ryzyko przyłapania na kłamstwie jest duże, częściej kłamią osoby o niższym ilorazie inteligencji. Jednak w sytuacji, kiedy kłamstwo nie pociąga za sobą dużych konsekwencji- osoby inteligentniejsze są w stanie wymyślić bardziej wiarygodne kłamstwo i szybko zaplanować tzw. „linię obrony”, czyli przygotowane odpowiedzi na pytania, które mogą zostać zadane przez rozmówcę w odniesieniu do zmyślonej historii. 
 
-###„Jeśli Twoje dziecko kłamie, w przyszłości będzie kryminalistą!”
+### „Jeśli Twoje dziecko kłamie, w przyszłości będzie kryminalistą!”
 
 Czy znasz kogoś, kto nigdy nie skłamał? Nawet nieświadomie? Nawet w małej sprawie? Jeśli dać wiarę temu mitowi, to świat dosłownie składa się z kryminalistów! Przeprowadzono na ten temat kilka badań. Obliczano częstość kłamstw u dzieci, a potem porównywano te wyniki do ilości notowań i popełnionych przestępstw u tych samych osób, po kilkunastu latach. Wyniki wykazały odwrotną zależność. To nie kłamstwo powoduje, że dziecko jest nieprzystosowane, czyli mające problemy z zachowaniem skutkujące dokonywaniem przestępstw i wykroczeń, ale właśnie to nieprzystosowanie skutkuje zwiększoną liczbą kłamstw. 
 
@@ -55,13 +55,13 @@ Czy znasz kogoś, kto nigdy nie skłamał? Nawet nieświadomie? Nawet w małej s
 
 Dla dziecka do ok. 8 roku życia każda informacja nieprawdziwa może być uznana za kłamstwo. Nie są one dobrze zorientowane w tym temacie, ale jak każdą umiejętność, zdolność kłamania doskonalą z wiekiem. Z drugiej strony bardzo małe dzieci traktują mówienie nieprawdy w kategorii żartu. Szczegółowe dane na ten temat uzyskał w swoim badaniu Lawrence Kohlberg.
 
-##EKSPERYMENT
+## EKSPERYMENT
 
 Zainteresowany rozwojem moralnym i społecznym dzieci Lawrence Kohlberg przeprowadził badanie na dzieciach w różnym wieku. Czytał im historyjkę, a następnie przeprowadzał z nimi wywiad pytając co uważają za dobre a co za złe zachowanie. Historyjka brzmiała tak: 
 
 *„W Europie pewna kobieta była bliska śmierci z powodu jakiegoś rodzaju raka. Istniał lek, który, zdaniem lekarzy mógł ją uratować. Była to postać radu, niedawno odkryta przez aptekarza z tego samego miasta. Przygotowanie leku było bardzo drogie, ale aptekarz zażądał za niego dziesięciokrotności kosztów wytworzenia. Płacił 200 dolarów za rad, a za małą dawkę żądał 2000dolarów. Mąż chorej kobiety, Heinz, pożyczał pieniądze od wszystkich, których znał, ale udało mu się zebrać jedynie około 1000$, co było połową potrzebnej kwoty. Powiedział aptekarzowi, że jego żona umiera i poprosił, by ten sprzedał mu lek taniej lub zgodził się poczekać na resztę pieniędzy. Ale aptekarz odpowiedział: „Nie, odkryłem ten lek i zamierzam na nim zarobić”. Heinz był zdesperowany i włamał się do apteki, żeby ukraść lekarstwo dla żony.”*
 
-####Wyciągając wnioski po rozmowach z dziećmi Kohlberg opracował tabelę przedstawiającą fazy rozwoju moralnego dziecka:
+#### Wyciągając wnioski po rozmowach z dziećmi Kohlberg opracował tabelę przedstawiającą fazy rozwoju moralnego dziecka:
 
 | Stadium | Wiek (w latach) | Co jest dobre? | Powody bycia dobrym |
 |---------|-----------------|----------------|---------------------|
@@ -72,7 +72,7 @@ Zainteresowany rozwojem moralnym i społecznym dzieci Lawrence Kohlberg przeprow
 | 4 | 12+ | Wypełnianie zobowiązań wobec społeczeństwa | Bycie dobrym obywatelem, żeby społeczeństwo dobrze funkcjonowało | 
 
 
-###Jak uczyć dzieci prawdomówności w każdym stadium?
+### Jak uczyć dzieci prawdomówności w każdym stadium?
 
 0.	Przedszkolaki nie rozumieją, że kłamstwo to coś złego. Powtarzaj mu, że jesteś szczęśliwy jeśli mówi ono prawdę. Tłumaczenie, że prawda jest lepsza od kłamstwa nie zostanie przyswojone.
 1.	Małe dzieci wierzą, że dorośli są w stanie zawsze stwierdzić czy mówi prawdę czy kłamie. Mów dziecku, że nie lubisz gdy kłamie, wyjaśnij, że kłamanie jest nie w porządku wobec rozmówcy i spytaj jak czułoby się gdyby samo zostało okłamane.
@@ -82,11 +82,11 @@ Zainteresowany rozwojem moralnym i społecznym dzieci Lawrence Kohlberg przeprow
 
 
 
-##Inne rzeczy:
+## Inne rzeczy:
 
 ` coś_nie_wiem_co_ale_fajnie_wygląda_jak_u_programisty, division `
 
-###Kody z R:
+### Kody z R:
 
 #### Zad4-5
 
