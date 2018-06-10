@@ -1,34 +1,37 @@
 ---
-title: "Dlaczego Dzieci Kłamią?"
+title: "Dlaczego Dzieci kłamią?"
 author: "Barbara Iwaszko"
 date: "10 czerwca 2018"
 output:
   rmarkdown::html_document:
     theme: spacelab
     highlight: tango
+    df_print: paged
 ---
 
-##Tekst napisany na podstawie książki Paula Ekmana "Dlaczego dzieci kłamią?"
+
+## Tekst napisany na podstawie książki Paula Ekmana "Dlaczego dzieci kłamią?"
 [Więcej informacji o książce oraz link do kupienia jej w księgarni tutaj](http://www.empik.com/dlaczego-dzieci-klamia-ekman-paul,p1135349536,ebooki-i-mp3-p) 
 
 
-###Ogólnie o kłamstwie
+### Ogólnie o kłamstwie
 
 Każdemu rodzicowi wydaje się, że wychowuje dziecko najlepiej, że dzięki jego metodom, potomek wyrośnie na człowieka dobrego, szczęśliwego i szczerego. Ale- nie tylko matka i ojciec mają wpływ na kształtowanie się młodego człowieka. Dom, szkoła, rodzina, przyjaciele, a w tych czasach także Internet to tak szerokie pola, że nie jesteśmy w stanie uchronić dziecka przed wszystkim, co szkodliwe. Kiedy nasza pociecha wykazuje zachowania niewłaściwe, rodzice szukają ich przyczyny, próbują dojść do tego, gdzie popełnili błąd wychowawczy. Dziś skupię się na dość powszechnym problemie jakim są kłamstwa u najmłodszych. Skąd się bierze kłamstwo? Jakie są jego najczęstsze motywy? Czy mówienie nieprawdy to początek większych problemów z dzieckiem? W jakim wieku dzieci zaczynają kłamać? I czym w ogóle kłamstwo jest?
 
-###Co możemy uznać za kłamstwo?
+### Co możemy uznać za kłamstwo?
 
 Najogólniej kłamstwem określamy mówienie informacji nieprawdziwych. Jednak, czy w przypadku, kiedy sprawy idą nie po naszej myśli niezależnie od nas można posądzić nas o składanie fałszywych deklaracji? Uściślijmy więc, że jest to CELOWE przekazywanie fałszywych informacji. Z czego wynika chęć wprowadzenia rozmówcy w błąd? Paul Eckman, duży psychologiczny autorytet w dziedzinie badań nad kłamstwami, wyróżnia w swojej książce kilka podstawowych motywów kłamstw u dzieci:
-*Chęć uniknięcia kary
-*Pragnienie uzyskania czegoś
-*Krycie przyjaciół (chronienie przed kłopotami osób bliskich)
-*Chronienie siebie lub kogoś przed krzywdą
-*Uzyskanie podziwu
-*Uniknięcie niezręcznej sytuacji zawstydzenia
-*Utrzymywanie prywatności
-*Demonstrowanie siły nad autorytetem (Jeśli uda się dziecku oszukać kogoś obdarzonego autorytetem, mały wojownik zyskuje uznanie w oczach rówieśników)
 
-###W związku z szerokim spektrum przyczyn kłamstw, wyróżniono także kilka rodzajów kłamstwa:
+* Chęć uniknięcia kary
+* Pragnienie uzyskania czegoś
+* Krycie przyjaciół (chronienie przed kłopotami osób bliskich)
+* Chronienie siebie lub kogoś przed krzywdą
+* Uzyskanie podziwu
+* Uniknięcie niezręcznej sytuacji zawstydzenia
+* Utrzymywanie prywatności
+* Demonstrowanie siły nad autorytetem (Jeśli uda się dziecku oszukać kogoś obdarzonego autorytetem, mały wojownik zyskuje uznanie w oczach rówieśników)
+
+### W związku z szerokim spektrum przyczyn kłamstw, wyróżniono także kilka rodzajów kłamstwa:
 
 1. Ściąganie (w szkole)
 2. „Niewinne kłamstwo”
@@ -70,6 +73,7 @@ Zainteresowany rozwojem moralnym i społecznym dzieci Lawrence Kohlberg przeprow
 
 
 ###Jak uczyć dzieci prawdomówności w każdym stadium?
+
 0.	Przedszkolaki nie rozumieją, że kłamstwo to coś złego. Powtarzaj mu, że jesteś szczęśliwy jeśli mówi ono prawdę. Tłumaczenie, że prawda jest lepsza od kłamstwa nie zostanie przyswojone.
 1.	Małe dzieci wierzą, że dorośli są w stanie zawsze stwierdzić czy mówi prawdę czy kłamie. Mów dziecku, że nie lubisz gdy kłamie, wyjaśnij, że kłamanie jest nie w porządku wobec rozmówcy i spytaj jak czułoby się gdyby samo zostało okłamane.
 2.	Na tym etapie dzieci rozumują wedle kodeksu Hammurabiego „oko za oko i ząb za ząb”. Nie rozumieją jeszcze, że kłamstwa mogą komuś realnie szkodzić. Wykorzystując to, że dziecko pojmuje właśnie w kategoriach wet za wet, spróbuj wytłumaczyć mu i zobrazować co stałoby się w domu, szkole, na świecie, gdyby każdy każdego oszukiwał.
@@ -83,17 +87,26 @@ Zainteresowany rozwojem moralnym i społecznym dzieci Lawrence Kohlberg przeprow
 ` coś_nie_wiem_co_ale_fajnie_wygląda_jak_u_programisty, division `
 
 ###Kody z R:
-#######Zad4-5
+
+#### Zad4-5
 
 
-```{r}
-library(ggplot2)
+```{r echo =  FALSE}
+library(tidyverse)
 ggplot(data = mpg, aes(x = class, y = displ)) +
    geom_boxplot() +
    coord_flip() +
 labs(title = "Zależność pojemności silnika od klasy auta", x = "klasa", y = "pojemność silnika")
 ```
 
+
+### Inny codechunk
+
+```{r echo = TRUE}
+library(tidyverse)
+filter(diamonds, price > 330) %>% 
+arrange(desc(carat))
+```
 
 
 
